@@ -13,3 +13,4 @@ cd LCD-show/
 sudo ./MPI4008-show
 ```
 
+My display: http://www.lcdwiki.com/4inch_HDMI_Display-C
